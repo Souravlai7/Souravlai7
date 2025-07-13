@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sourav Lai</h1>
 <h3 align="center">A passionate PHP Developer from India 🇮🇳</h3>
 
-- 💬 Ask me about **PHP, Laravel, CodeIgniter, MySQL, REST APIs**
-
+- 💻 Currently building with **Laravel, CodeIgniter, REST APIs, and MySQL**
+- 🔍 Exploring **Docker, Redis, and TDD (PHPUnit)**
+- 📚 Constantly learning **Laravel Livewire**, **Inertia.js**, and **API Security (OAuth, Sanctum)**
+- 💬 Ask me about **PHP, Laravel, CI4, RESTful APIs, MVC, and app architecture**
+- 🧠 I love solving **real-world problems** with clean, scalable code
 - 📫 How to reach me: **souravlai7@gmail.com**
-
 - ⚡ Fun fact: **I automate everything I can!**
+
+---
+
+### 🧰 Tech Stack
+```bash
+PHP • Laravel • CodeIgniter • MySQL • HTML • CSS • JavaScript • Bootstrap • Git • VS Code • Postman • REST APIs • Docker • PHPUnit • Redis
 
 ---
 
