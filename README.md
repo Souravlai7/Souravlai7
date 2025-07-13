@@ -24,7 +24,8 @@
 
 ### 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravlai7&show_icons=true&theme=dracula)
+# ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravlai7&show_icons=true&theme=dracula)
+![Sourav Lai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravlai7&show_icons=true&theme=dracula&count_private=true)
 
 ---
 
