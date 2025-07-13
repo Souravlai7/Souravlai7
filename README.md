@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourav Lai</h1>
 <h3 align="center">A passionate PHP Developer from India 🇮🇳</h3>
 
-- 🌱 I’m currently learning **Laravel, REST APIs, Docker**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Souravlai7](https://github.com/Souravlai7)
-
 - 💬 Ask me about **PHP, Laravel, CodeIgniter, MySQL, REST APIs**
 
 - 📫 How to reach me: **souravlai7@gmail.com**
