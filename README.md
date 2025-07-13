@@ -14,6 +14,7 @@
 ### 🧰 Tech Stack
 ```bash
 PHP • Laravel • CodeIgniter • MySQL • HTML • CSS • JavaScript • Bootstrap • Git • VS Code • Postman • REST APIs • Docker • PHPUnit • Redis
+```
 
 ---
 
