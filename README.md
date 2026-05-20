@@ -6,10 +6,12 @@
 
 ### 🎯 Current Focus
 
-- Building scalable Laravel APIs
-- Improving database performance & indexing
-- Learning Docker & Redis deeply
-- Writing cleaner and testable backend code
+- Building scalable Laravel APIs & backend systems
+- Improving database performance, indexing & optimization
+- Exploring AI-assisted development with Codex & Claude
+- Learning Docker, Redis & scalable infrastructure
+- Building AI-powered and agentic workflow applications
+- Writing cleaner, testable, and maintainable backend code
   
 ---
 
@@ -25,11 +27,21 @@
 
 ---
 
+### 🤖 AI & Automation
+
+- Working with AI APIs and LLM integrations
+- Exploring agentic AI workflows and automation
+- Using AI tools like ChatGPT, Codex, and Claude for development productivity
+- Interested in AI-powered backend systems and developer tooling
+
+---
+
 ### 🧰 Tech Stack
 
 ```bash
 PHP • Laravel • CodeIgniter • MySQL • HTML • CSS • JavaScript • Bootstrap
 Git • VS Code • Postman • REST APIs • Docker • PHPUnit • Redis • Composer
+OpenAI • Claude • AI APIs • Agentic AI • Prompt Engineering
 ```
 
 ---
@@ -48,6 +60,8 @@ Git • VS Code • Postman • REST APIs • Docker • PHPUnit • Redis • C
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/openai" alt="openai" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/anthropic" alt="claude" width="40" height="40"/>
 </p>
 
 ---
