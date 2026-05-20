@@ -29,7 +29,7 @@
 
 ### 🤖 AI & Automation
 
-- Working with AI APIs and LLM integrations
+- Building applications with AI APIs and LLM integrations
 - Exploring agentic AI workflows and automation
 - Using AI tools like ChatGPT, Codex, and Claude for development productivity
 - Interested in AI-powered backend systems and developer tooling
