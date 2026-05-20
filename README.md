@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Souravlai7&color=blueviolet)
 <h1 align="center">Hi 👋, I'm Sourav Lai</h1>
-<h3 align="center">🚀 PHP Backend Developer | Laravel • CodeIgniter • REST APIs • MySQL • Clean Architecture</h3>
+<h3 align="center">🚀 PHP Backend Developer | Laravel • CodeIgniter • REST APIs • MySQL • AI-Assisted Development • Clean Architecture</h3>
 
 ---
 
