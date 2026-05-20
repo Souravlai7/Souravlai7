@@ -44,8 +44,8 @@ Git • VS Code • Postman • REST APIs • Docker • PHPUnit • Redis • C
 
 ### 📈 GitHub Stats
 
-![Sourav Lai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravlai7&show_icons=true&theme=dracula&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souravlai7&layout=compact&theme=dracula&count_private=true)
+![Sourav Lai's GitHub stats](https://github-stats-extended.vercel.app/api?username=Souravlai7&show_icons=true&theme=dracula&count_private=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Souravlai7&layout=compact&theme=dracula&count_private=true)
 
 ---
 
