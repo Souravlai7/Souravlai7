@@ -4,6 +4,15 @@
 
 ---
 
+### 🎯 Current Focus
+
+- Building scalable Laravel APIs
+- Improving database performance & indexing
+- Learning Docker & Redis deeply
+- Writing cleaner and testable backend code
+  
+---
+
 ### 💼 About Me
 
 - 💻 Currently working with **Laravel, CodeIgniter 4, REST APIs, and MySQL**
