@@ -92,26 +92,12 @@ I actively use **AI-assisted development** (Claude, Codex) as part of my workflo
 
 ![Contribution Activity](assets/activity-graph.svg)
 
-![Contribution Calendar](assets/calendar.svg)
-
 ---
 
 ## 🏆 GitHub Achievements
 
 ![GitHub Streak](assets/streak.svg)
 ![GitHub Trophies](assets/trophies.svg)
-
----
-
-## 🕒 Recent Activity
-
-![Recent Activity](assets/activity-feed.svg)
-
----
-
-## 📌 Featured Repositories
-
-![Featured Repositories](assets/featured-repos.svg)
 
 ---
 
