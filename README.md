@@ -87,13 +87,14 @@ I actively use **AI-assisted development** (Claude, Codex) as part of my workflo
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Souravlai7&layout=compact&theme=dracula&count_private=true)
+![GitHub Stats](assets/stats.svg)
+![Top Languages](assets/top-langs.svg)
 
 ---
 
 ## 🏆 GitHub Achievements
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Souravlai7&theme=dracula)
+![GitHub Streak](assets/streak.svg)
 
 ---
 
