@@ -11,7 +11,7 @@
       <text class="label">Total Stars:</text><text x="180" class="stat">1</text>
     </g>
     <g transform="translate(25, 25)">
-      <text class="label">Public Repos:</text><text x="180" class="stat">4</text>
+      <text class="label">Total Repos:</text><text x="180" class="stat">5</text>
     </g>
     <g transform="translate(25, 50)">
       <text class="label">Total Commits:</text><text x="180" class="stat">221</text>

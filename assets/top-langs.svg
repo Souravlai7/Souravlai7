@@ -1,21 +1,23 @@
-<svg width="300" height="155" viewBox="0 0 300 155" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="300" height="175" viewBox="0 0 300 175" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ff6e96; }
     .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2; }
   </style>
-  <rect x="0.5" y="0.5" width="299" height="154" rx="4.5" fill="#282a36" stroke="#e4e2e2" stroke-opacity="0.15"/>
+  <rect x="0.5" y="0.5" width="299" height="174" rx="4.5" fill="#282a36" stroke="#e4e2e2" stroke-opacity="0.15"/>
   <text x="25" y="35" class="header">Most Used Languages</text>
   <g transform="translate(25, 55)">
     <svg width="250" height="8">
       <rect width="250" height="8" rx="4" fill="#343a46"/>
-      <rect x="0.00" width="200.22" height="8" fill="#f1e05a"/>
-      <rect x="200.22" width="25.06" height="8" fill="#e34c26"/>
-      <rect x="225.28" width="24.72" height="8" fill="#663399"/>
+      <rect x="0.00" width="185.80" height="8" fill="#f1e05a"/>
+      <rect x="185.80" width="23.25" height="8" fill="#e34c26"/>
+      <rect x="209.06" width="22.94" height="8" fill="#663399"/>
+      <rect x="232.00" width="18.00" height="8" fill="#3572A5"/>
     </svg>
   </g>
   <g transform="translate(25, 80)">
-    <circle cx="0" cy="-4" r="5" fill="#f1e05a"/><text x="12" y="0" class="lang-name">JavaScript 80.09%</text>
-    <circle cx="0" cy="16" r="5" fill="#e34c26"/><text x="12" y="20" class="lang-name">HTML 10.02%</text>
-    <circle cx="0" cy="36" r="5" fill="#663399"/><text x="12" y="40" class="lang-name">CSS 9.89%</text>
+    <circle cx="0" cy="-4" r="5" fill="#f1e05a"/><text x="12" y="0" class="lang-name">JavaScript 74.32%</text>
+    <circle cx="0" cy="16" r="5" fill="#e34c26"/><text x="12" y="20" class="lang-name">HTML 9.30%</text>
+    <circle cx="0" cy="36" r="5" fill="#663399"/><text x="12" y="40" class="lang-name">CSS 9.18%</text>
+    <circle cx="0" cy="56" r="5" fill="#3572A5"/><text x="12" y="60" class="lang-name">Python 7.20%</text>
   </g>
 </svg>
