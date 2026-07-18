@@ -59,19 +59,19 @@ I actively use **AI-assisted development** (Claude, Codex) as part of my workflo
 - **Tools:** VS Code · Postman
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/openai" alt="openai" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/anthropic" alt="claude" width="40" height="40"/>
+  <img src="assets/icons/php.svg" alt="php" width="40" height="40"/>
+  <img src="assets/icons/laravel.svg" alt="laravel" width="40" height="40"/>
+  <img src="assets/icons/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
+  <img src="assets/icons/mysql.svg" alt="mysql" width="40" height="40"/>
+  <img src="assets/icons/html5.svg" alt="html5" width="40" height="40"/>
+  <img src="assets/icons/css3.svg" alt="css3" width="40" height="40"/>
+  <img src="assets/icons/javascript.svg" alt="javascript" width="40" height="40"/>
+  <img src="assets/icons/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="assets/icons/docker.svg" alt="docker" width="40" height="40"/>
+  <img src="assets/icons/git.svg" alt="git" width="40" height="40"/>
+  <img src="assets/icons/composer.svg" alt="composer" width="40" height="40"/>
+  <img src="assets/icons/openai.svg" alt="openai" width="40" height="40"/>
+  <img src="assets/icons/anthropic.svg" alt="claude" width="40" height="40"/>
 </p>
 
 ---
