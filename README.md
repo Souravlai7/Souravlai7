@@ -1,10 +1,43 @@
 ![](https://komarev.com/ghpvc/?username=Souravlai7&color=blueviolet)
-<h1 align="center">Hi 👋, I'm Sourav Lai</h1>
-<h3 align="center">🚀 PHP Backend Developer | Laravel • CodeIgniter • REST APIs • MySQL • AI-Assisted Development • Clean Architecture</h3>
+
+<div align="center">
+
+# 👋 Hi, I'm Sourav Lai
+
+### "Building backend systems that are fast, clean, and built to last."
+
+[![Role](https://img.shields.io/badge/Role-PHP%20Backend%20Developer-blue?style=for-the-badge)]()
+[![Location](https://img.shields.io/badge/Location-West%20Bengal%2C%20India-informational?style=for-the-badge)]()
+[![Laravel](https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
+[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)]()
+[![AI Assisted](https://img.shields.io/badge/AI--Assisted-Development-8A2BE2?style=for-the-badge)]()
+
+*Backend developer specializing in Laravel, CodeIgniter 4, and REST APIs — with AI-assisted, agentic workflows in daily practice.*
+
+</div>
 
 ---
 
-### 🎯 Current Focus
+## 🚀 About Me
+
+I'm a **PHP backend developer** focused on building scalable APIs and clean, maintainable systems with **Laravel** and **CodeIgniter 4**. I care about database performance, testable code, and shipping software that's easy to extend a year from now — not just today.
+
+I actively use **AI-assisted development** (Claude, Codex) as part of my workflow, and I'm increasingly building AI-powered and agentic applications alongside traditional backend work.
+
+---
+
+## 📞 Contact
+
+| | |
+|---|---|
+| 📧 **Email** | [souravlai7@gmail.com](mailto:souravlai7@gmail.com) |
+| 💼 **LinkedIn** | [sourav-lai-963b40216](https://linkedin.com/in/sourav-lai-963b40216) |
+| 📍 **Location** | West Bengal, India |
+| 🕒 **Timezone** | Asia/Kolkata (IST) |
+
+---
+
+## 🎯 Current Focus
 
 - Building scalable Laravel APIs & backend systems
 - Improving database performance, indexing & optimization
@@ -12,41 +45,18 @@
 - Learning Docker, Redis & scalable infrastructure
 - Building AI-powered and agentic workflow applications
 - Writing cleaner, testable, and maintainable backend code
-  
----
-
-### 💼 About Me
-
-- 💻 Currently working with **Laravel, CodeIgniter 4, REST APIs, and MySQL**
-- 🧪 Exploring **Docker**, **Redis**, and **Test-Driven Development (PHPUnit)**
-- 🧠 Continuously learning **Laravel Livewire**, **Inertia.js**, and **API Security (OAuth2, Sanctum)**
-- 💬 Ask me about **PHP**, **Laravel**, **CI4**, **MVC architecture**, and **clean backend development**
-- 🛠 I enjoy solving **real-world problems** with scalable, maintainable code
-- 📫 Reach me at: **[souravlai7@gmail.com](mailto:souravlai7@gmail.com)**
-- ⚡ Fun fact: I **automate everything** I possibly can!
 
 ---
 
-### 🤖 AI & Automation
+## 🛠️ Technology Stack
 
-- Building applications with AI APIs and LLM integrations
-- Exploring agentic AI workflows and automation
-- Using AI tools like ChatGPT, Codex, and Claude for development productivity
-- Interested in AI-powered backend systems and developer tooling
-
----
-
-### 🧰 Tech Stack
-
-```bash
-PHP • Laravel • CodeIgniter • MySQL • HTML • CSS • JavaScript • Bootstrap
-Git • VS Code • Postman • REST APIs • Docker • PHPUnit • Redis • Composer
-OpenAI • Claude • AI APIs • Agentic AI • Prompt Engineering
-```
-
----
-
-### 🛠️ Languages & Tools
+**Backend:** PHP 8+ · Laravel · CodeIgniter 4 · REST APIs
+**Database:** MySQL · Query Optimization & Indexing
+**Frontend:** HTML5 · CSS3 · JavaScript · Bootstrap
+**Testing:** PHPUnit · Test-Driven Development
+**DevOps:** Git · Docker · Redis · Composer
+**AI / Automation:** OpenAI · Claude · Agentic AI Workflows · Prompt Engineering
+**Tools:** VS Code · Postman
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -66,25 +76,49 @@ OpenAI • Claude • AI APIs • Agentic AI • Prompt Engineering
 
 ---
 
-### 📈 GitHub Stats
+## 🤖 AI & Automation
+
+- Building applications with AI APIs and LLM integrations
+- Exploring agentic AI workflows and automation
+- Using AI tools like ChatGPT, Codex, and Claude for development productivity
+- Interested in AI-powered backend systems and developer tooling
+
+---
+
+## 📈 GitHub Stats
 
 ![Sourav Lai's GitHub stats](https://github-stats-extended.vercel.app/api?username=Souravlai7&show_icons=true&theme=dracula&count_private=true)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Souravlai7&layout=compact&theme=dracula&count_private=true)
 
 ---
 
-### 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Souravlai7&theme=dracula)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Souravlai7&theme=onedark&column=6&margin-w=5)
 
 ---
 
-### 🌐 Let's Connect
+## 🌟 What Makes Me Different
+
+- Clean & maintainable code
+- Database-first performance thinking
+- Security-conscious backend design
+- API-first development
+- Automation-minded — I script away repetitive work
+- Comfortable pairing traditional development with AI-assisted workflows
+
+---
+
+## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav-lai-963b40216)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souravlai7@gmail.com)
 
 ---
 
+<div align="center">
+
 > ✅ Keep learning, keep coding, and always strive for clean, maintainable, and scalable solutions.
+
+</div>
