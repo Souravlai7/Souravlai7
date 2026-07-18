@@ -90,11 +90,14 @@ I actively use **AI-assisted development** (Claude, Codex) as part of my workflo
 ![GitHub Stats](assets/stats.svg)
 ![Top Languages](assets/top-langs.svg)
 
+![Contribution Activity](assets/activity-graph.svg)
+
 ---
 
 ## 🏆 GitHub Achievements
 
 ![GitHub Streak](assets/streak.svg)
+![GitHub Trophies](assets/trophies.svg)
 
 ---
 
