@@ -1,0 +1,21 @@
+<svg width="300" height="155" viewBox="0 0 300 155" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ff6e96; }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2; }
+  </style>
+  <rect x="0.5" y="0.5" width="299" height="154" rx="4.5" fill="#282a36" stroke="#e4e2e2" stroke-opacity="0.15"/>
+  <text x="25" y="35" class="header">Most Used Languages</text>
+  <g transform="translate(25, 55)">
+    <svg width="250" height="8">
+      <rect width="250" height="8" rx="4" fill="#343a46"/>
+      <rect x="0.00" width="200.22" height="8" fill="#f1e05a"/>
+      <rect x="200.22" width="25.06" height="8" fill="#e34c26"/>
+      <rect x="225.28" width="24.72" height="8" fill="#663399"/>
+    </svg>
+  </g>
+  <g transform="translate(25, 80)">
+    <circle cx="0" cy="-4" r="5" fill="#f1e05a"/><text x="12" y="0" class="lang-name">JavaScript 80.09%</text>
+    <circle cx="0" cy="16" r="5" fill="#e34c26"/><text x="12" y="20" class="lang-name">HTML 10.02%</text>
+    <circle cx="0" cy="36" r="5" fill="#663399"/><text x="12" y="40" class="lang-name">CSS 9.89%</text>
+  </g>
+</svg>

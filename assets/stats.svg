@@ -1,0 +1,29 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ff6e96; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2; }
+    .label { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2; }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#282a36" stroke="#e4e2e2" stroke-opacity="0.15"/>
+  <text x="25" y="35" class="header">Souravlai7's GitHub Stats</text>
+  <g transform="translate(0, 55)">
+    <g transform="translate(25, 0)">
+      <text class="label">Total Stars:</text><text x="180" class="stat">1</text>
+    </g>
+    <g transform="translate(25, 25)">
+      <text class="label">Public Repos:</text><text x="180" class="stat">4</text>
+    </g>
+    <g transform="translate(25, 50)">
+      <text class="label">Total Commits:</text><text x="180" class="stat">221</text>
+    </g>
+    <g transform="translate(25, 75)">
+      <text class="label">Total PRs:</text><text x="180" class="stat">18</text>
+    </g>
+    <g transform="translate(25, 100)">
+      <text class="label">Total Issues:</text><text x="180" class="stat">1</text>
+    </g>
+    <g transform="translate(25, 125)">
+      <text class="label">Total Contributions:</text><text x="180" class="stat">18,383</text>
+    </g>
+  </g>
+</svg>

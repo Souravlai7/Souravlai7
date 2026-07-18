@@ -1,0 +1,20 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .num { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ff6e96; }
+    .lbl { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2; }
+    .sub { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b8fa3; }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#282a36" stroke="#e4e2e2" stroke-opacity="0.15"/>
+  <line x1="165" y1="30" x2="165" y2="165" stroke="#43466b"/>
+  <line x1="330" y1="30" x2="330" y2="165" stroke="#43466b"/>
+
+  <text x="82" y="85" text-anchor="middle" class="num">18,383</text>
+  <text x="82" y="110" text-anchor="middle" class="lbl">Total Contributions</text>
+  <text x="82" y="128" text-anchor="middle" class="sub">2020 - Present</text>
+
+  <text x="247" y="85" text-anchor="middle" class="num">1</text>
+  <text x="247" y="110" text-anchor="middle" class="lbl">Current Streak</text>
+
+  <text x="412" y="85" text-anchor="middle" class="num">18</text>
+  <text x="412" y="110" text-anchor="middle" class="lbl">Longest Streak</text>
+</svg>
