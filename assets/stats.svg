@@ -11,7 +11,7 @@
       <text class="label">Total Stars:</text><text x="180" class="stat">1</text>
     </g>
     <g transform="translate(25, 25)">
-      <text class="label">Total Repos:</text><text x="180" class="stat">5</text>
+      <text class="label">Total Repos:</text><text x="180" class="stat">13</text>
     </g>
     <g transform="translate(25, 50)">
       <text class="label">Total Commits:</text><text x="180" class="stat">221</text>
@@ -23,7 +23,7 @@
       <text class="label">Total Issues:</text><text x="180" class="stat">1</text>
     </g>
     <g transform="translate(25, 125)">
-      <text class="label">Total Contributions:</text><text x="180" class="stat">18,383</text>
+      <text class="label">Total Contributions:</text><text x="180" class="stat">18,382</text>
     </g>
   </g>
 </svg>
