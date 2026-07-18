@@ -50,13 +50,13 @@ I actively use **AI-assisted development** (Claude, Codex) as part of my workflo
 
 ## 🛠️ Technology Stack
 
-**Backend:** PHP 8+ · Laravel · CodeIgniter 4 · REST APIs
-**Database:** MySQL · Query Optimization & Indexing
-**Frontend:** HTML5 · CSS3 · JavaScript · Bootstrap
-**Testing:** PHPUnit · Test-Driven Development
-**DevOps:** Git · Docker · Redis · Composer
-**AI / Automation:** OpenAI · Claude · Agentic AI Workflows · Prompt Engineering
-**Tools:** VS Code · Postman
+- **Backend:** PHP 8+ · Laravel · CodeIgniter 4 · REST APIs
+- **Database:** MySQL · Query Optimization & Indexing
+- **Frontend:** HTML5 · CSS3 · JavaScript · Bootstrap
+- **Testing:** PHPUnit · Test-Driven Development
+- **DevOps:** Git · Docker · Redis · Composer
+- **AI / Automation:** OpenAI · Claude · Agentic AI Workflows · Prompt Engineering
+- **Tools:** VS Code · Postman
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -87,7 +87,6 @@ I actively use **AI-assisted development** (Claude, Codex) as part of my workflo
 
 ## 📈 GitHub Stats
 
-![Sourav Lai's GitHub stats](https://github-stats-extended.vercel.app/api?username=Souravlai7&show_icons=true&theme=dracula&count_private=true)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Souravlai7&layout=compact&theme=dracula&count_private=true)
 
 ---
@@ -95,7 +94,6 @@ I actively use **AI-assisted development** (Claude, Codex) as part of my workflo
 ## 🏆 GitHub Achievements
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Souravlai7&theme=dracula)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Souravlai7&theme=onedark&column=6&margin-w=5)
 
 ---
 
