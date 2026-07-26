@@ -8,11 +8,11 @@
   <line x1="165" y1="30" x2="165" y2="165" stroke="#43466b"/>
   <line x1="330" y1="30" x2="330" y2="165" stroke="#43466b"/>
 
-  <text x="82" y="85" text-anchor="middle" class="num">18,645</text>
+  <text x="82" y="85" text-anchor="middle" class="num">18,673</text>
   <text x="82" y="110" text-anchor="middle" class="lbl">Total Contributions</text>
   <text x="82" y="128" text-anchor="middle" class="sub">2020 - Present</text>
 
-  <text x="247" y="85" text-anchor="middle" class="num">2</text>
+  <text x="247" y="85" text-anchor="middle" class="num">3</text>
   <text x="247" y="110" text-anchor="middle" class="lbl">Current Streak</text>
 
   <text x="412" y="85" text-anchor="middle" class="num">18</text>
