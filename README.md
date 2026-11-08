@@ -44,7 +44,7 @@ I actively use **AI-assisted development** (Claude, Codex) as part of my workflo
 
 ## 📊 Highlights
 
-| ⏱️ **8 h → 15 s** | 🧠 **RAG + Agents** | 🗄️ **Advanced MySQL** | 📦 **12+ Products** |
+| ⏱️ **8 h → 10–15 s** | 🧠 **RAG + Agents** | 🗄️ **Advanced MySQL** | 📦 **12+ Products** |
 |:---:|:---:|:---:|:---:|
 | Report runtime after MySQL optimization | AI agents on Cloudflare Workers AI with tool calling | SPs, functions, triggers, index audits | Shipped across ERP, CRM, SaaS and AI |
 
@@ -83,7 +83,8 @@ WhatsApp API backend with webhooks, WebSockets and Redis, deployed with Docker a
 
 | Project | Stack | What it does |
 |---|---|---|
-| **FUSE ERP** | PHP, MySQL | ERP with HR, Payroll, Inventory and CRM modules |
+| **FUSE ERP** (Shreesols) | PHP, MySQL | ERP with HR, Payroll, Inventory and CRM modules |
+| **Fuse Mobile App** (Shreesols) | PHP, CodeIgniter | REST API backend for a Flutter mobile app |
 | **PSMMS** | Core PHP 8.5 MVC, MySQL, PHPUnit | Membership system with admin and member portals, migrations and tests |
 | **Attendance Management System** | PHP, MySQL, PhpSpreadsheet | Students, faculty, attendance and fees, with reports and Excel backups |
 | **Meet** | Laravel, Vue.js, Socket.io, WebRTC | Video meetings with subscriptions, 2FA and a ChatGPT assistant |
@@ -91,6 +92,7 @@ WhatsApp API backend with webhooks, WebSockets and Redis, deployed with Docker a
 | **WOG** | CodeIgniter 4, MySQL | Crypto faucet and offerwall with wallet withdrawals and referrals |
 | **SmartStore** | CodeIgniter, MySQL, Paytm | E-commerce store with the Paytm payment gateway |
 | **Computer Training Institute Portal** | PHP, MySQL | Courses, admissions, payments, OTP verification and certificates |
+| **Preeti Janawade Website** | HTML, CSS, JavaScript | Personal brand site with booking, newsletter and payment forms |
 | **Job Search Portal** | PHP, MySQL, jQuery | Job search web application (academic project) |
 
 </details>
@@ -128,7 +130,7 @@ WhatsApp API backend with webhooks, WebSockets and Redis, deployed with Docker a
 - **Cloud:** Cloudflare Workers · Vectorize · D1 · KV · R2 · Turnstile · AWS (S3, SES)
 - **Integrations:** Telegram Bot API · WhatsApp API · Agora · LiveKit · Razorpay · Stripe · PayPal · Paytm · Firebase Cloud Messaging
 - **Frontend:** HTML5 · CSS3 · JavaScript · jQuery · Bootstrap
-- **Testing:** PHPUnit · Test-Driven Development
+- **Testing:** PHPUnit
 - **DevOps:** Git · GitHub · CI/CD · Docker · Apache · PHP-FPM · Composer
 - **Tools:** VS Code · Postman
 
