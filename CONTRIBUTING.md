@@ -17,6 +17,7 @@ Thanks for your interest in contributing. This guide covers this repository. My 
 feature/feature-name
 bugfix/issue-name
 hotfix/issue-name
+docs/topic-name
 ```
 
 ## Commit Convention
@@ -26,11 +27,15 @@ I follow [Conventional Commits](https://www.conventionalcommits.org/):
 ```
 feat:     new feature
 fix:      bug fix
+perf:     performance improvement
 docs:     documentation
-refactor: code cleanup
+refactor: code change that neither fixes a bug nor adds a feature
 test:     tests
+ci:       CI configuration
 chore:    maintenance
 ```
+
+Add `!` after the type (e.g. `feat!:`) or a `BREAKING CHANGE:` footer for breaking changes.
 
 ## Pull Requests
 
@@ -40,7 +45,7 @@ chore:    maintenance
 
 ## Code Standards
 
-- Follow PSR-12 for PHP code (adjust to the relevant language/style guide for non-PHP repos)
+- Follow PSR-12 (or its successor, PER Coding Style) for PHP code, or the project's own formatter such as Laravel Pint; use the relevant style guide for non-PHP repos
 - Write clean, readable code
 - Add or update documentation for any user-facing change
 - Add or update tests where the project has them

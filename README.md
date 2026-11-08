@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Souravlai7&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=Souravlai7&color=blueviolet)
 
 <div align="center">
 
@@ -6,13 +6,13 @@
 
 ### "Building backend systems that are fast, clean, and built to last."
 
-[![Role](https://img.shields.io/badge/Role-PHP%20Backend%20Developer-blue?style=for-the-badge)]()
-[![Location](https://img.shields.io/badge/Location-West%20Bengal%2C%20India-informational?style=for-the-badge)]()
-[![Laravel](https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
-[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-SPs%20%C2%B7%20Functions%20%C2%B7%20Triggers-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![AI Engineering](https://img.shields.io/badge/AI-RAG%20%C2%B7%20Agents%20%C2%B7%20MCP-8A2BE2?style=for-the-badge)]()
-[![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-orange?style=for-the-badge)]()
+![Role](https://img.shields.io/badge/Role-PHP%20Backend%20Developer-blue?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-West%20Bengal%2C%20India-informational?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-SPs%20%C2%B7%20Functions%20%C2%B7%20Triggers-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AI Engineering](https://img.shields.io/badge/AI-RAG%20%C2%B7%20Agents%20%C2%B7%20MCP-8A2BE2?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-orange?style=for-the-badge)
 
 [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-success?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Souravlai7/Souravlai7/blob/main/sourav-lai-cv.pdf)
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 I'm a **PHP backend developer** focused on building scalable APIs and clean, maintainable systems with **Laravel** and **CodeIgniter 4**. I care about database performance, testable code, and shipping software that's easy to extend a year from now — not just today.
 
@@ -63,7 +63,7 @@ I actively use **AI-assisted development** (Claude, Codex) as part of my workflo
 ### 🤖 AI Support Agent & CRM Platform
 `Cloudflare Workers` `Workers AI` `Vectorize` `D1` `KV` `CodeIgniter 4` `MCP`
 
-- AI support agent running **Llama 3.3 70B** on Workers AI, answering from a knowledge base through **RAG** (bge embeddings in Vectorize, history in D1)
+- AI support agent running **Llama 3.3 70B** on Workers AI, answering from a knowledge base through **RAG** (BGE embeddings in Vectorize, history in D1)
 - **Tool calling** to act inside the CRM (e.g. create tickets), streaming step-by-step progress to the chat widget
 - Webhook automations: AI **ticket triage**, **lead qualification** and overdue-invoice follow-ups, processed in the background
 - Scoped per-user API keys, KV caching and rate limiting, plus an **OAuth MCP server** so Claude, Codex and Cursor can use the CRM with each user's permissions

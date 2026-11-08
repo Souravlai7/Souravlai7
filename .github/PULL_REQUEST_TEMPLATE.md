@@ -33,14 +33,15 @@ Closes #
 
 - [ ] Tested locally
 - [ ] Tests pass (where the project has tests)
-- [ ] No breaking changes
+- [ ] No breaking changes (or they are described above)
 
 ---
 
 ## Security Checklist
 
-- [ ] No secrets committed
-- [ ] Input validation checked
+- [ ] No secrets, credentials or `.env` files committed
+- [ ] User input is validated
+- [ ] Database queries use bound parameters
 
 ---
 

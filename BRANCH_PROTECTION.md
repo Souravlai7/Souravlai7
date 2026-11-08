@@ -17,10 +17,18 @@ Changes should be submitted through Pull Requests where the repository has other
 
 ### Pull Requests
 
+- Require a pull request before merging (where the repository has other contributors)
 - CI checks must pass (where the repository has CI)
-- No force pushes to protected branches
+- Resolve all review conversations before merging
+
+### Force Pushes and Deletion
+
+- Block force pushes to protected branches
+- Block deletion of protected branches
 
 ### Commit Requirements
+
+These are conventions, not settings GitHub enforces:
 
 - Use meaningful commit messages
 - Follow [Conventional Commits](https://www.conventionalcommits.org/)
@@ -35,5 +43,5 @@ docs: update setup instructions
 
 ### Security
 
-- Enable secret scanning and push protection under **Settings → Code security**
+- Enable secret scanning and push protection in the repository's security settings (**Settings → Advanced Security**, shown as **Code security** in older GitHub interfaces)
 - Enable Dependabot alerts, and add a `.github/dependabot.yml` listing the repository's package ecosystems (composer, npm, github-actions, …). See this repository's [dependabot.yml](.github/dependabot.yml) for an example.
