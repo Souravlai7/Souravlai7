@@ -32,7 +32,7 @@ Closes #
 ## Testing
 
 - [ ] Tested locally
-- [ ] Unit tests passed
+- [ ] Tests pass (where the project has tests)
 - [ ] No breaking changes
 
 ---

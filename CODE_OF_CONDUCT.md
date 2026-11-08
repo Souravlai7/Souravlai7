@@ -19,6 +19,6 @@ Be respectful. No harassment, discrimination, or personal attacks — toward con
 
 ## Enforcement
 
-Violations may be reported to **souravlai7@gmail.com**.
+Violations may be reported to **souravlai7@gmail.com**. Reports are kept confidential.
 
 Comments, commits, or contributors that violate this Code of Conduct may be removed, and behavior may be reported to GitHub if necessary.

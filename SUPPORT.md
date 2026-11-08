@@ -8,15 +8,15 @@ Check the repository's `README.md` first — most common questions are answered 
 
 ## Reporting a Bug
 
-Open a [bug report](https://github.com/Souravlai7/Souravlai7/issues/new?template=bug_report.yml) on the relevant repository.
+Open an issue on the repository where the problem is, using its **Bug report** template. For this repository, use this [bug report](https://github.com/Souravlai7/Souravlai7/issues/new?template=bug_report.yml) form.
 
 ## Requesting a Feature
 
-Open a [feature request](https://github.com/Souravlai7/Souravlai7/issues/new?template=feature_request.yml).
+Open an issue on the relevant repository using its **Feature request** template. For this repository, use this [feature request](https://github.com/Souravlai7/Souravlai7/issues/new?template=feature_request.yml) form.
 
 ## Asking a Question
 
-Open a [question issue](https://github.com/Souravlai7/Souravlai7/issues/new?template=question.yml), or reach out directly:
+Open an issue on the relevant repository using its **Question** template (for this repository, use this [question](https://github.com/Souravlai7/Souravlai7/issues/new?template=question.yml) form), or reach out directly:
 
 - 📧 **Email:** souravlai7@gmail.com
 - 💼 **LinkedIn:** [souravlai7](https://www.linkedin.com/in/souravlai7/)

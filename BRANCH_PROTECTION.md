@@ -1,6 +1,6 @@
 # Branch Protection Policy
 
-This is the default branch protection policy for my repositories. Individual repositories should configure these rules under **Settings → Branches** and may extend them as needed.
+This is the branch protection policy I aim to follow in my repositories. GitHub does not apply it automatically: each repository needs these rules configured under **Settings → Rules → Rulesets** (or **Settings → Branches**), and may extend them as needed.
 
 ## Protected Branches
 
@@ -13,12 +13,12 @@ This is the default branch protection policy for my repositories. Individual rep
 
 ❌ Direct pushes are avoided on protected branches.
 
-Changes should be submitted through Pull Requests where the repository has other contributors.
+Changes should be submitted through Pull Requests where the repository has other contributors. Trusted automation, such as a stats update bot, may commit directly.
 
 ### Pull Requests
 
-- CI checks must pass
-- No force pushes
+- CI checks must pass (where the repository has CI)
+- No force pushes to protected branches
 
 ### Commit Requirements
 
@@ -35,5 +35,5 @@ docs: update setup instructions
 
 ### Security
 
-- Secret scanning enabled
-- Dependency scanning enabled ([dependabot.yml](.github/dependabot.yml))
+- Enable secret scanning and push protection under **Settings → Code security**
+- Enable Dependabot alerts, and add a `.github/dependabot.yml` listing the repository's package ecosystems (composer, npm, github-actions, …). See this repository's [dependabot.yml](.github/dependabot.yml) for an example.

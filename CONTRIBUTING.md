@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Thanks for your interest in contributing. This is the default contributing guide for my repositories — individual repositories may extend or override it with their own `CONTRIBUTING.md`.
+Thanks for your interest in contributing. This guide covers this repository. My other repositories follow the same process unless they include their own `CONTRIBUTING.md`.
 
 ## Getting Started
 
@@ -36,14 +36,15 @@ chore:    maintenance
 
 - Keep pull requests focused and reasonably small
 - Reference any related issue (e.g. `Closes #123`)
-- Make sure CI checks pass before requesting review
+- Make sure CI checks pass before requesting review (where the repository has CI)
 
 ## Code Standards
 
 - Follow PSR-12 for PHP code (adjust to the relevant language/style guide for non-PHP repos)
 - Write clean, readable code
 - Add or update documentation for any user-facing change
-- Keep commits small and focused
+- Add or update tests where the project has them
+- Never commit secrets, credentials or `.env` files
 
 ## Code of Conduct
 
