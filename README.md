@@ -12,6 +12,8 @@
 [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)]()
 [![AI Assisted](https://img.shields.io/badge/AI--Assisted-Development-8A2BE2?style=for-the-badge)]()
 
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-success?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Souravlai7/Souravlai7/blob/main/sourav-lai-cv.pdf)
+
 *Backend developer specializing in Laravel, CodeIgniter 4, and REST APIs — with AI-assisted, agentic workflows in daily practice.*
 
 </div>
@@ -31,7 +33,8 @@ I actively use **AI-assisted development** (Claude, Codex) as part of my workflo
 | | |
 |---|---|
 | 📧 **Email** | [souravlai7@gmail.com](mailto:souravlai7@gmail.com) |
-| 💼 **LinkedIn** | [sourav-lai-963b40216](https://linkedin.com/in/sourav-lai-963b40216) |
+| 💼 **LinkedIn** | [souravlai7](https://www.linkedin.com/in/souravlai7/) |
+| 📄 **Resume** | [sourav-lai-cv.pdf](https://github.com/Souravlai7/Souravlai7/blob/main/sourav-lai-cv.pdf) |
 | 📍 **Location** | West Bengal, India |
 | 🕒 **Timezone** | Asia/Kolkata (IST) |
 
@@ -114,7 +117,8 @@ I actively use **AI-assisted development** (Claude, Codex) as part of my workflo
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav-lai-963b40216)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souravlai7/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-success?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Souravlai7/Souravlai7/blob/main/sourav-lai-cv.pdf)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souravlai7@gmail.com)
 
 ---

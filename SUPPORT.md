@@ -19,7 +19,7 @@ Open a [feature request](https://github.com/Souravlai7/Souravlai7/issues/new?tem
 Open a [question issue](https://github.com/Souravlai7/Souravlai7/issues/new?template=question.yml), or reach out directly:
 
 - 📧 **Email:** souravlai7@gmail.com
-- 💼 **LinkedIn:** [sourav-lai-963b40216](https://linkedin.com/in/sourav-lai-963b40216)
+- 💼 **LinkedIn:** [souravlai7](https://www.linkedin.com/in/souravlai7/)
 
 ## Security Issues
 
