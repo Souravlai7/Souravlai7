@@ -30,6 +30,12 @@ Update the **Status** and **Sent on** columns as you go. Statuses below were set
 | 20 | Mediatrenz (agency) | PHP Laravel Full-Stack Developer | Noida Sec 63 | 1–5 yrs | hrm@mediatrenzagency.com | – | Drafted | | #ImmediateJoiner. Ask which client company it is. |
 | 21 | Cypherox Technologies | PHP Developer | Not stated – check | 2–4 yrs | unnati.hrcx@gmail.com | – | Drafted | | Post (image) lists no location or skills. Gmail contact – verify company. |
 | 22 | GoAdmio | Senior PHP Developer – "$180k/yr" | Remote | – | hr@goadmio.com | – | Skipped | | Not applying. Unverified post: no careers page, no company address, GitHub repo has 3 commits. |
+| 23 | Payrupya (FinTech) | PHP Backend Developer (3 positions) | Jaipur, WFO, 6 days/week | 2–4 yrs | hr@payrupya.in | 9950207766 | Drafted | | Good match: Laravel + CodeIgniter, fintech, API integration. Relocation needed. |
+| 24 | OM Codes | Senior Laravel Developer | Not stated – ask | 5+ yrs | contact@omcodes.com | – | Drafted | | Strong skills match; experience slightly under 5 yrs. Immediate openings. Required subject format. Can also DM/comment on LinkedIn. |
+| 25 | OCTS – Overseas Cyber Technical Services | PHP Developer | Karaikudi, Tamil Nadu | Not stated | jobs@octsindia.com | 9080404596 | Drafted | | Post (image) gives no experience/skills/salary – email asks. Small town; relocation or remote. |
+| 26 | Olympas LLC | Senior Full Stack Developer (Node.js & PHP) | Kalyan, Maharashtra, WFO, 3 PM–1 AM | 7–8 yrs | hrm@olympasllc.com | – | Skipped | | 3 yrs short; Node.js/React/TypeScript core stack not in CV. ERP fit only. |
+| 27 | Laravel (Laravel Cloud) | Solutions Engineer (pre-sales) | Likely US-based remote – check | – | Online application form | – | Drafted | | Not a dev role: customer-facing, trials, travel. US benefits suggest US-only – confirm location first. Cover letter + "Why Laravel" answer in emails.md. |
+| 28 | NetWeb Software | PHP Developer | Vadodara, WFO | 0–2 yrs | shraddha.soni@netweb.biz | – | Skipped | | Junior role (fresher pay), relocation, immediate joiners preferred. |
 
 ## Other activity
 

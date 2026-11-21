@@ -521,6 +521,116 @@ Not applied. Unverified post (no careers page or company details); decided to sk
 
 ---
 
+## 23. Payrupya – PHP Backend Developer, Jaipur
+
+**To:** hr@payrupya.in · **Phone:** 9950207766
+**Subject:** Application – PHP Backend Developer (Laravel, CodeIgniter) – Sourav Lai, 4+ Years
+
+```text
+Dear Hiring Team,
+
+I'm applying for the PHP Backend Developer position at Payrupya. I have 4+ years of backend experience with PHP, Laravel and CodeIgniter, including payment gateway integration and finance-related systems, which fits your FinTech focus.
+
+Laravel and CodeIgniter: As a Software Developer at Shreesols, Kolkata (Jul 2022 – Present), I develop and maintain ERP modules for payroll, HR and support ticketing using Laravel, CodeIgniter and Core PHP. I have also built several applications on CodeIgniter 4, including a dating platform with web and mobile apps, a CRM with real-time notifications, and a WhatsApp API backend.
+
+Database and backend architecture: My main achievement was cutting a critical report from 8 hours to 10–15 seconds by optimizing MySQL stored procedures, functions and indexing. I design schemas, write stored procedures, functions and triggers, and structure applications with clean MVC and modular architecture.
+
+FinTech and API integration:
+- Integrated payment gateways including Razorpay, Stripe, PayPal and Paytm, with webhook-based payment confirmation and signature verification.
+- Built a payment hub with a double-entry ledger for accurate, auditable transaction records.
+- Integrated many third-party APIs, including WhatsApp, Telegram, Firebase and AI services, with secure authentication, retries and idempotent webhook handling.
+
+My notice period is 60 working days, and [I am willing to relocate to Jaipur]. My resume is attached, and you can see my work at github.com/Souravlai7.
+
+Thank you for your time and consideration.
+```
+
+---
+
+## 24. OM Codes – Senior Laravel Developer
+
+**To:** contact@omcodes.com
+**Subject:** Application: Senior Laravel Developer - Sourav Lai
+
+```text
+Dear Hiring Team,
+
+I'm applying for the Senior Laravel Developer position. I have 4+ years of hands-on backend experience with PHP, Laravel, MySQL/MariaDB, REST APIs and Redis, with a strong focus on database optimization and third-party integrations.
+
+Backend and database optimization: As a Software Developer at Shreesols, Kolkata (Jul 2022 – Present), I develop and maintain ERP modules for payroll, HR and support ticketing using Laravel, CodeIgniter and Core PHP. My main achievement was cutting a critical report from 8 hours to 10–15 seconds by redesigning it with MySQL stored procedures, functions and indexing. I regularly work with triggers, query tuning and index audits on MySQL and MariaDB.
+
+Architecture and integrations: I have designed and built backend systems end-to-end, including a dating platform with web and mobile apps (with a Laravel-based mobile app), a CRM with real-time notifications, and a WhatsApp API backend using Redis and WebSockets, deployed with Docker. I have integrated payment gateways (Razorpay, Stripe, PayPal, Paytm), WhatsApp, Telegram, Firebase and AI services (OpenAI, Claude, Gemini), with idempotent webhooks, retries and secure authentication.
+
+Code quality: I use Git daily, follow PSR-12 standards, write PHPUnit tests where it matters, and focus on clean, maintainable code.
+
+Portfolio: github.com/Souravlai7 (project details are also in my attached resume).
+
+My notice period is 60 working days. Could you also share the job location and whether remote or hybrid work is possible?
+
+Thank you for your time and consideration.
+```
+
+---
+
+## 25. OCTS (Overseas Cyber Technical Services) – PHP Developer, Karaikudi
+
+**To:** jobs@octsindia.com · **Phone:** 9080404596
+**Subject:** Application – PHP Developer – Sourav Lai, 4+ Years (Laravel, CodeIgniter, MySQL)
+
+```text
+Dear Hiring Team,
+
+I'm applying for the PHP Developer position at Overseas Cyber Technical Services (OCTS). I have 4+ years of experience building and maintaining web applications with PHP, Laravel, CodeIgniter and MySQL.
+
+Experience: As a Software Developer at Shreesols, Kolkata (Jul 2022 – Present), I develop and maintain ERP modules for payroll, HR and support ticketing using Laravel, CodeIgniter and Core PHP. My main achievement was cutting a critical report from 8 hours to 10–15 seconds by optimizing MySQL stored procedures, functions and indexing. I also build REST APIs for web and Flutter mobile apps.
+
+Projects and integrations: I have built several applications on CodeIgniter 4 and Laravel, including a dating platform with web and mobile apps, a CRM with real-time notifications, and a WhatsApp API backend. I have integrated payment gateways (Razorpay, Stripe, PayPal, Paytm), WhatsApp, Firebase and AI services (OpenAI, Claude, Gemini).
+
+Skills: PHP 8, Laravel, CodeIgniter 4, Core PHP, MySQL (stored procedures, functions, triggers, query optimization), REST APIs, JavaScript, jQuery, AJAX, HTML, CSS, Bootstrap and Git.
+
+Could you please share the experience level, salary range and work location for this role, and whether remote work is possible? My notice period is 60 working days.
+
+My resume is attached, and you can see my work at github.com/Souravlai7.
+
+Thank you for your time and consideration.
+```
+
+---
+
+## 27. Laravel (Laravel Cloud) – Solutions Engineer (online form)
+
+Confirm the job location first – US-style benefits suggest US-only. Phone: `+91 78650 42351`. LinkedIn: `https://www.linkedin.com/in/souravlai7/`.
+
+**Cover letter:**
+
+```text
+Dear Laravel Hiring Team,
+
+I'm applying for the Solutions Engineer role on Laravel Cloud. I'm a backend engineer with 4+ years of hands-on experience building and deploying web applications, and Laravel has been part of my daily work throughout that time.
+
+As a Software Developer at Shreesols, Kolkata (Jul 2022 – Present), I build and maintain ERP modules for payroll, HR and support ticketing in Laravel, CodeIgniter and PHP. My most significant result was taking a critical report from 8 hours to 10–15 seconds by redesigning it with MySQL stored procedures, functions and indexing. That kind of work – understanding why a system behaves the way it does, then reasoning from first principles to fix it – is what draws me to this role.
+
+Beyond PHP, I've worked across several languages and platforms: JavaScript services on Cloudflare Workers (an AI support agent using Workers AI, Vectorize, D1 and KV), Redis and WebSockets for real-time features, Docker deployments across Dev, UAT and Production, and AWS S3 and SES. I've worked with MySQL, MariaDB, Redis, Cloudflare D1 and vector databases, and I understand the trade-offs between relational, key-value and vector stores.
+
+Much of my work involves explaining technical decisions to non-specialists – walking project managers and business users through why a report is slow, what a migration involves, and what it will cost in time. I also write technical documentation such as product requirements, database specifications and architecture notes.
+
+I haven't yet worked in a formal sales role, but I'm genuinely excited about working directly with customers: learning their architecture, finding the real problem, and helping them succeed on a platform I already respect.
+
+Thank you for considering my application.
+
+Sourav Lai
+```
+
+**Why Laravel & this role?**
+
+```text
+Laravel is the framework that shaped how I build software. It made me productive early in my career and taught me what a well-designed developer experience feels like. I'd love to help other teams get the same benefit from Laravel Cloud.
+
+This role suits me because I enjoy the part of engineering that sits between systems and people: understanding an existing application, mapping how it really runs, and explaining a clear path forward. Performance and database work have taught me to reason from first principles instead of following a script, which is exactly what developer audiences expect. I'm also excited to grow into the customer-facing side of engineering with a small, experienced team, and to feed what I learn in the field back into the product.
+```
+
+---
+
 ## LinkedIn "Open to Work" post
 
 ```text
